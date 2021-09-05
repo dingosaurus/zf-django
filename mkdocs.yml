@@ -1,0 +1,17 @@
+site_name: ZF django
+nav:
+  - Home: index.md
+  - Apps: apps.md
+  - Admin: admin.md
+  - User: user.md
+  - Model: models.md
+  - API: api.md
+  - Logging: Logging.md
+  - Templates: templates.md
+theme:
+  name: material
+  icon:
+    logo: material/earth
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
